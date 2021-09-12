@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="第一周作业" />
         <module name="第二周作业" />
+        <module name="第四周作业" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="第一周作业" target="1.8" />
       <module name="第二周作业" target="1.8" />
+      <module name="第四周作业" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
